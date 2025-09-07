@@ -312,8 +312,6 @@ html {
   scroll-behavior: smooth;
 }
 
-/* ----- MEDIA QUERIES ----- */
-/* Tablettes */
 @media (max-width: 1024px) {
   #home,
   .about-container {
